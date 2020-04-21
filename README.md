@@ -6,8 +6,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/AhmedMaj/CollegeTrackingSystem">
-    <img src="images/logo_transparent.png" alt="Logo" width="160" height="160">
+  <a href="https://github.com/AhmedMaj/CollegeTrackingSystem/Images">
+    <img src="Images/logo_transparent.png" alt="Logo" width="160" height="160">
   </a>
 
   <h3 align="center">Collage Tracking System</h3>
