@@ -81,7 +81,7 @@ Collage Tracking System (CTS) is a system the will help students, faculty staff 
 [forks-shield]: https://img.shields.io/github/forks/AhmedMaj/CollegeTrackingSystem.svg?style=flat-square
 [forks-url]: https://github.com/AhmedMaj/CollegeTrackingSystem/network/members
 [stars-shield]: https://img.shields.io/github/stars/AhmedMaj/CollegeTrackingSystem.svg?style=flat-square
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
+[stars-url]: https://github.com/AhmedMaj/CollegeTrackingSystem
 [issues-shield]: https://img.shields.io/github/issues/AhmedMaj/CollegeTrackingSystem.svg?style=flat-square
 [issues-url]: https://github.com/AhmedMaj/CollegeTrackingSystem/issues
 [AhmedMaj.io]:https://ahmedmaj.github.io/
