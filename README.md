@@ -16,7 +16,7 @@
     <a href="https://github.com/AhmedMaj/CollegeTrackingSystem"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/AhmedMaj/CollegeTrackingSystem">View Demo</a>
+    <a href="https://github.com/AhmedMaj/CollegeTrackingSystem/tree/master/CTS">View Demo</a>
     ·
     <a href="https://github.com/AhmedMaj/CollegeTrackingSystem/issues">Report Bug</a>
   </p>
