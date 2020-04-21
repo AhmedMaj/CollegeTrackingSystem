@@ -30,7 +30,6 @@
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
   * [Design Tools](#design-tools)
-* [Roadmap](#roadmap)
 * [Contribution](#contribution)
 * [Contact](#contact)
 
@@ -50,10 +49,6 @@ Collage Tracking System (CTS) is a system the will help students, faculty staff 
 [WireframePro](https://www.mockflow.com/)
 
 [Lucidchart](https://www.lucidchart.com/pages/)
-
-
-<!-- ROADMAP -->
-## Roadmap
 
 
 
